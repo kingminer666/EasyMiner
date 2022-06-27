@@ -1,0 +1,2 @@
+# EasyMiner
+Easyminer early release 
